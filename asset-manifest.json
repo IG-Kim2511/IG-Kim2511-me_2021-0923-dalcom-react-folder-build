@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3da00a4c.chunk.css",
-    "main.js": "/static/js/main.6f198a45.chunk.js",
-    "main.js.map": "/static/js/main.6f198a45.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a4fcbeb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a4fcbeb.js.map",
-    "static/js/2.153b643f.chunk.js": "/static/js/2.153b643f.chunk.js",
-    "static/js/2.153b643f.chunk.js.map": "/static/js/2.153b643f.chunk.js.map",
-    "static/js/3.2885ab61.chunk.js": "/static/js/3.2885ab61.chunk.js",
-    "static/js/3.2885ab61.chunk.js.map": "/static/js/3.2885ab61.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3da00a4c.chunk.css.map": "/static/css/main.3da00a4c.chunk.css.map",
-    "static/js/2.153b643f.chunk.js.LICENSE.txt": "/static/js/2.153b643f.chunk.js.LICENSE.txt",
-    "static/media/page-first(6).d097a732.png": "/static/media/page-first(6).d097a732.png",
-    "static/media/phone.becb4627.png": "/static/media/phone.becb4627.png"
+    "main.css": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/css/main.3da00a4c.chunk.css",
+    "main.js": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/main.6f198a45.chunk.js",
+    "main.js.map": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/main.6f198a45.chunk.js.map",
+    "runtime-main.js": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/runtime-main.93b27056.js",
+    "runtime-main.js.map": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/runtime-main.93b27056.js.map",
+    "static/js/2.153b643f.chunk.js": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/2.153b643f.chunk.js",
+    "static/js/2.153b643f.chunk.js.map": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/2.153b643f.chunk.js.map",
+    "static/js/3.2885ab61.chunk.js": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/3.2885ab61.chunk.js",
+    "static/js/3.2885ab61.chunk.js.map": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/3.2885ab61.chunk.js.map",
+    "index.html": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/index.html",
+    "static/css/main.3da00a4c.chunk.css.map": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/css/main.3da00a4c.chunk.css.map",
+    "static/js/2.153b643f.chunk.js.LICENSE.txt": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/js/2.153b643f.chunk.js.LICENSE.txt",
+    "static/media/page-first(6).d097a732.png": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/media/page-first(6).d097a732.png",
+    "static/media/phone.becb4627.png": "/IG-Kim2511-me_2021-0923-dalcom-react-folder-build/static/media/phone.becb4627.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a4fcbeb.js",
+    "static/js/runtime-main.93b27056.js",
     "static/js/2.153b643f.chunk.js",
     "static/css/main.3da00a4c.chunk.css",
     "static/js/main.6f198a45.chunk.js"
